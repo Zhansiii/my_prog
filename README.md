@@ -1,1 +1,1 @@
-# my_prog
+# my-project
